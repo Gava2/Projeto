@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by SkyYComunica
+Feito com ♥ by SkyYComunica / projeto de estudo da RocketSeat
